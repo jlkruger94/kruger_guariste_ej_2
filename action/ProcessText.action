@@ -1,0 +1,9 @@
+# Request
+string input_text
+---
+# Result  
+string final_message
+---
+# Feedback
+string current_word
+int32 words_remaining
